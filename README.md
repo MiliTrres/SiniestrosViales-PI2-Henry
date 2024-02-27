@@ -6,7 +6,7 @@
 
 # <h1 align=center>**`Siniestros viales con victimas fatales`**</h1>
 
-<p align=center><img src=Img/Captura de pantalla 2024-02-27 173918.png height=300><p>
+<p align=center><img src=https://github.com/MiliTrres/SiniestrosViales-PI2-Henry/blob/main/Img/Captura%20de%20pantalla%202024-02-27%20173918.png height=300><p>
 
 ## Introducción
 
