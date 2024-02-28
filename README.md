@@ -85,6 +85,8 @@ Por último, llevamos a cabo el desarrollo de visualizaciones, acompañado de co
 
 <p align=center><img src=https://github.com/MiliTrres/SiniestrosViales-PI2-Henry/blob/main/Img/output3.png height = 300><p>
 
+<p align=center><img src=https://github.com/MiliTrres/SiniestrosViales-PI2-Henry/blob/main/Img/output4.png height = 300><p>
+
 ***Conclusiones***
 
 - Vemos que el horario con mayor cantidad de siniestros viales es por la mañana, especificamente entre las 6 y las 7 de la mañana, este fenómeno podría estar relacionado con el horario de ingreso a los trabajos y escuelas, horario en el que aumenta el flujo vehicular.
@@ -123,7 +125,7 @@ Por último, llevamos a cabo el desarrollo de visualizaciones, acompañado de co
 <p align=center><img src=https://github.com/MiliTrres/SiniestrosViales-PI2-Henry/blob/main/Img/output9.png height = 300><p>
 
 
-<p align=center><img src=https://github.com/MiliTrres/SiniestrosViales-PI2-Henry/blob/main/Img/output11.png height = 300><p>
+<p align=center><img src=https://github.com/MiliTrres/SiniestrosViales-PI2-Henry/blob/main/Img/output11.png height = 200><p>
 
 
 <p align=center><img src=https://github.com/MiliTrres/SiniestrosViales-PI2-Henry/blob/main/Img/output6.png height = 300><p>
