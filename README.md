@@ -1,16 +1,20 @@
 <p align=center><img src=https://github.com/MiliTrres/SiniestrosViales-PI2-Henry/blob/main/Img/imgHenry.png><p>
 
-
-
 # <h1 align=center> **PROYECTO INDIVIDUAL Nº 2** </h1>
 
 # <h1 align=center>**`Siniestros viales con victimas fatales`**</h1>
 
-<p align=center><img src=https://github.com/MiliTrres/SiniestrosViales-PI2-Henry/blob/main/Img/Captura%20de%20pantalla%202024-02-27%20173918.png height=300><p>
+<p align=center><img src=https://github.com/MiliTrres/SiniestrosViales-PI2-Henry/blob/main/Img/Captura%20de%20pantalla%202024-02-27%20173918.png><p>
 
 ## Introducción
 
-Este proyecto representa el Proyecto Individual 1 en el campo de Machine Learning, desarrollado dentro del bootcamp de Henry. Su propósito es simular el rol de un ***MLOps Engineer***, una figura que combina las habilidades de **un Data Engineer + un Data Scientist**. En esta simulación, el MLOps Engineer trabaja para la conocida plataforma de videojuegos, Steam. El proyecto se centra en abordar un desafío empresarial clave: la creación de un Producto Mínimo Viable (MVP) que incorpora tanto una API de implementación, como un modelo de Machine Learning.
+En el entorno urbano, los siniestros viales, también conocidos como accidentes de tráfico o de tránsito, constituyen eventos preocupantes que involucran vehículos en las calles y carreteras, pudiendo ser causados por colisiones entre automóviles, motocicletas, bicicletas o peatones, atropellos, choques contra objetos estáticos o volcaduras de vehículos. Estos sucesos acarrean consecuencias que van desde daños materiales hasta lesiones graves o incluso fatales para los involucrados.
+
+En ciudades tan grandes, como por ejemplo Buenos Aires, los incidentes viales representan una problema de gran relevancia debido al alto flujo de vehículos y la densidad poblacional. Estos sucesos repecuten de manera significativa en la seguridad, tanto de los habitantes de la ciudad, como los visitantes y turistas, la infraestructura vial, los servicios de emergencia, etc.
+
+La tasa de mortalidad a causa de los siniestros viales, suele ser un indicador critico de seguridad vial en muchas regiones. Esta, se calcula como la cantidad de muertes por cada cierto número de habitantes o por el número de vehiculos registrados. En lugares donde esta tasa es tan alta, es de suma prioridad reducir estos números al minimo posible, y esto se hace a traves de educación vial, respetando y cumpliendo normas de transito; también depende de la seguridad de la infraestructura de carreteras, calles.
+
+En Argentina, son cerca de 4000 mil las victimas fatales por año, a causa de siniestros viales, siendo esta, la principal causa de muertes violentas en nuestro pais. Por eso, el *Observatorio de Movilidad y Seguridad Vial (OMSV)*, centro de estudios que se encuentra bajo la órbita de la Secretaría de Transporte del Gobierno de la Ciudad Autónoma de Buenos Aires, nos solicita la elaboración de un proyecto de anális de datos, con el fin de generar información que le permita a las autoridades locales tomar medidas para disminuir la cantidad de víctimas fatales de los siniestros viales. 
 
 ## Descripción del proyecto
 
