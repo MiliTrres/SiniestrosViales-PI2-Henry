@@ -2,7 +2,7 @@
 
 # <h1 align=center> **PROYECTO INDIVIDUAL Nº 2** </h1>
 
-# <h1 align=center>**Siniestros viales con victimas fatales**</h1>
+# <h1 align=center>**HOMICIDIOS EN SINIESTROS VIALES**</h1>
 
 <p align=center><img src=https://github.com/MiliTrres/SiniestrosViales-PI2-Henry/blob/main/Img/Captura%20de%20pantalla%202024-02-27%20173918.png><p>
 
@@ -19,7 +19,34 @@ La tasa de mortalidad por accidentes viales es un indicador crítico de segurida
 En Argentina, hay alrededor de 4000 muertes al año debido a accidentes viales, siendo esta la principal causa de muertes violentas en el país. Por esta razón, el Observatorio de Movilidad y Seguridad Vial (OMSV) solicita nuestra participación en un proyecto de análisis de datos para ayudar a las autoridades locales a reducir la cantidad de muertes en accidentes viales.
 
 ## Fuente de datos:
-- [Buenos Aires Data:](https://data.buenosaires.gob.ar/dataset/victimas-siniestros-viales)
+La fuente de datos pricipal utilizada para este proyecto, fue obtenida desde la página Buenos Aires Data, donde se comparten datos abiertos para el público en general. Puedes acceder a la página desde el siguiente enlace [Buenos Aires Data](https://data.buenosaires.gob.ar/dataset/victimas-siniestros-viales).
+Para acceder directamente al dataset utilizado en este proyecto, puedes hacerlo desde el siguiente enlace [Dataset Homicidios](https://github.com/MiliTrres/SiniestrosViales-PI2-Henry/blob/main/Data/homicidios.xlsx).
+Para comprender mejor el dataset y sus variables, puedes acceder al siguiente enlace [Diccionario de Datos](https://cdn.buenosaires.gob.ar/datosabiertos/datasets/transporte-y-obras-publicas/victimas-siniestros-viales/NOTAS_HOMICIDIOS_SINIESTRO_VIAL.pdf).
+
+# Fuentes de datos adicionales:
+Ademas de la fuente de datos principal, se accedieron a fuentes de datos complementarias para un analisis más preciso.
+Se obtuvo información de las comunas a traves de la página *Buenos Aires Ciudad*. Puede acceder a la página desde el siguiente enlace [Buenos Aires Ciudad / Comuna](https://buenosaires.gob.ar/jefaturadegabinete/atencion-ciudadana-y-gestion-comunal/gestion-comunal/comunas).
+Se obtuvo información de los barrios que conforman cada comuna de la ciudad, también desde la pagina *Buenos Aires Ciudad*. Puede acceder a la página desde el siguiente enlace [Buenos Aires Ciudad / Barrios](https://buenosaires.gob.ar/laciudad/barrios).
+Y por último, se obtuvo información de la población de la ciudad por comuna y por sexo. Puede descargar el dataset desde el siguiente enlace [Buenos Aires Ciudad / Población](https://www.estadisticaciudad.gob.ar/eyc/?p=28146).
+
+## Tecnologias y herramientas utilizadas:
+
+Para el desarrollo del EDA (*Exploratory Data Analysis*), se utilizaron las siguientes herramientas y tecnologias:
+![VSCode](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visual-studio-code)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter)
+![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-333333?style=flat&logo=WordCloud)
+![Seaborn](https://img.shields.io/badge/Seaborn-333333?style=flat&logo=Seaborn)
+Para el desarrollo del dashboard, se utilizaron las siguientes herramientas:
+![PowerBI](https://img.shields.io/badge/PowerBI-333333?style=flat&logo=powerbi)
+![DAX](https://img.shields.io/badge/DAX-333333?style=flat&logo=DAX)
+
+
+
+
+
+
 
 
 
