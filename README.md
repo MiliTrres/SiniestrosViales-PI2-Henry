@@ -4,7 +4,7 @@
 
 # <h1 align=center>**HOMICIDIOS EN SINIESTROS VIALES**</h1>
 
-<p align=center><img src=https://github.com/MiliTrres/SiniestrosViales-PI2-Henry/blob/main/Img/Captura%20de%20pantalla%202024-02-27%20173918.png><p>
+<p align=center><img src=https://github.com/MiliTrres/SiniestrosViales-PI2-Henry/blob/main/Img/imgportada.png><p>
 
 # *Introducción*
 
@@ -79,9 +79,11 @@ Por último, llevamos a cabo el desarrollo de visualizaciones, acompañado de co
 
 <p align=center><img src=https://github.com/MiliTrres/SiniestrosViales-PI2-Henry/blob/main/Img/output5.png height = 300><p>
 
-<p align=center><img src=https://github.com/MiliTrres/SiniestrosViales-PI2-Henry/blob/main/Img/output2.png><p>
 
-<p align=center><img src=https://github.com/MiliTrres/SiniestrosViales-PI2-Henry/blob/main/Img/output3.png><p>
+<p align=center><img src=https://github.com/MiliTrres/SiniestrosViales-PI2-Henry/blob/main/Img/output2.png height = 300><p>
+
+
+<p align=center><img src=https://github.com/MiliTrres/SiniestrosViales-PI2-Henry/blob/main/Img/output3.png height = 300><p>
 
 ***Conclusiones***
 
@@ -96,13 +98,13 @@ Por último, llevamos a cabo el desarrollo de visualizaciones, acompañado de co
 
 
 
-<p align=center><img src=https://github.com/MiliTrres/SiniestrosViales-PI2-Henry/blob/main/Img/output7.png><p>
+<p align=center><img src=https://github.com/MiliTrres/SiniestrosViales-PI2-Henry/blob/main/Img/output7.png height = 300><p>
 
 
-<p align=center><img src=https://github.com/MiliTrres/SiniestrosViales-PI2-Henry/blob/main/Img/output12.png><p>
+<p align=center><img src=https://github.com/MiliTrres/SiniestrosViales-PI2-Henry/blob/main/Img/output12.png height = 300><p>
 
   
-<p align=center><img src=https://github.com/MiliTrres/SiniestrosViales-PI2-Henry/blob/main/Img/output.png><p>
+<p align=center><img src=https://github.com/MiliTrres/SiniestrosViales-PI2-Henry/blob/main/Img/output.png height = 300><p>
   
 
 ***Conclusiones***
@@ -115,16 +117,16 @@ Por último, llevamos a cabo el desarrollo de visualizaciones, acompañado de co
   
 ***ANÁLISIS DE LAS VICTIMAS***
 
-<p align=center><img src=https://github.com/MiliTrres/SiniestrosViales-PI2-Henry/blob/main/Img/output8.png><p>
+<p align=center><img src=https://github.com/MiliTrres/SiniestrosViales-PI2-Henry/blob/main/Img/output8.png height = 300><p>
 
 
-<p align=center><img src=https://github.com/MiliTrres/SiniestrosViales-PI2-Henry/blob/main/Img/output9.png><p>
+<p align=center><img src=https://github.com/MiliTrres/SiniestrosViales-PI2-Henry/blob/main/Img/output9.png height = 300><p>
 
 
-<p align=center><img src=https://github.com/MiliTrres/SiniestrosViales-PI2-Henry/blob/main/Img/output11.png><p>
+<p align=center><img src=https://github.com/MiliTrres/SiniestrosViales-PI2-Henry/blob/main/Img/output11.png height = 300><p>
 
 
-<p align=center><img src=https://github.com/MiliTrres/SiniestrosViales-PI2-Henry/blob/main/Img/output6.png><p>
+<p align=center><img src=https://github.com/MiliTrres/SiniestrosViales-PI2-Henry/blob/main/Img/output6.png height = 300><p>
 
 ***Conclusiones***
 - La mayor cantidad de victimas se encuentras entre 30 - 60 años (Adulto).
