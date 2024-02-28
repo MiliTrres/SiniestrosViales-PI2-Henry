@@ -2,27 +2,30 @@
 
 # <h1 align=center> **PROYECTO INDIVIDUAL Nº 2** </h1>
 
-# <h1 align=center>**`Siniestros viales con victimas fatales`**</h1>
+# <h1 align=center>**Siniestros viales con victimas fatales**</h1>
 
 <p align=center><img src=https://github.com/MiliTrres/SiniestrosViales-PI2-Henry/blob/main/Img/Captura%20de%20pantalla%202024-02-27%20173918.png><p>
 
 ## Introducción
 
-En el entorno urbano, los siniestros viales, también conocidos como accidentes de tráfico o de tránsito, constituyen eventos preocupantes que involucran vehículos en las calles y carreteras, pudiendo ser causados por colisiones entre automóviles, motocicletas, bicicletas o peatones, atropellos, choques contra objetos estáticos o volcaduras de vehículos. Estos sucesos acarrean consecuencias que van desde daños materiales hasta lesiones graves o incluso fatales para los involucrados.
+En áreas urbanas, los accidentes de tráfico, también llamados siniestros viales, son eventos preocupantes que involucran vehículos en la via pública y son causados por colisiones entre autos, motos, bicicletas o peatones, atropellos, choques contra objetos fijos o vuelcos de vehículos. Estos incidentes pueden causar daños materiales, lesiones graves e incluso la muerte.
 
-En ciudades tan grandes, como por ejemplo Buenos Aires, los incidentes viales representan una problema de gran relevancia debido al alto flujo de vehículos y la densidad poblacional. Estos sucesos repecuten de manera significativa en la seguridad, tanto de los habitantes de la ciudad, como los visitantes y turistas, la infraestructura vial, los servicios de emergencia, etc.
+En Argentina
 
-La tasa de mortalidad a causa de los siniestros viales, suele ser un indicador critico de seguridad vial en muchas regiones. Esta, se calcula como la cantidad de muertes por cada cierto número de habitantes o por el número de vehiculos registrados. En lugares donde esta tasa es tan alta, es de suma prioridad reducir estos números al minimo posible, y esto se hace a traves de educación vial, respetando y cumpliendo normas de transito; también depende de la seguridad de la infraestructura de carreteras, calles.
+En ciudades grandes como Buenos Aires, los accidentes viales son un problema importante debido al gran número de vehículos y la densidad de población. Estos incidentes afectan significativamente la seguridad de los residentes, visitantes, la infraestructura vial y los servicios de emergencia.
 
-En Argentina, son cerca de 4000 mil las victimas fatales por año, a causa de siniestros viales, siendo esta, la principal causa de muertes violentas en nuestro pais. Por eso, el *Observatorio de Movilidad y Seguridad Vial (OMSV)*, centro de estudios que se encuentra bajo la órbita de la Secretaría de Transporte del Gobierno de la Ciudad Autónoma de Buenos Aires, nos solicita la elaboración de un proyecto de anális de datos, con el fin de generar información que le permita a las autoridades locales tomar medidas para disminuir la cantidad de víctimas fatales de los siniestros viales. 
+La tasa de mortalidad por accidentes viales es un indicador crítico de seguridad vial en muchas regiones. Se calcula como la cantidad de muertes por cada cierto número de habitantes o vehículos registrados. Reducir esta tasa es una prioridad y se logra mediante educación vial, respeto a las normas de tránsito y seguridad en las carreteras y calles.
 
-## Descripción del proyecto
+En Argentina, hay alrededor de 4000 muertes al año debido a accidentes viales, siendo esta la principal causa de muertes violentas en el país. Por esta razón, el Observatorio de Movilidad y Seguridad Vial (OMSV) solicita nuestra participación en un proyecto de análisis de datos para ayudar a las autoridades locales a reducir la cantidad de muertes en accidentes viales.
 
-El proyecto busca superar con exito dos desafios esenciales:
+## Fuente de datos:
+- [Buenos Aires Data:](https://data.buenosaires.gob.ar/dataset/victimas-siniestros-viales)
 
-**Análisis de Sentimientos de Usuarios:** El primer desafío consiste en analizar y clasificar los comentarios de los usuarios. Para ello, se emplea la librería TextBlob, una herramienta de *Procesamiento del Lenguaje Natural* (NLP). TextBlob determina la polaridad del sentimiento en cada comentario y lo clasifica como negativo, neutral o positivo.
 
-**Sistema de Recomendación de Juegos:** El segundo desafío, radica en construir un *Sistema de Recomendación de Videojuegos*. Este sistema proporciona recomendaciones de juegos a los usuarios basándose en sus preferencias y comportamientos anteriores.
+
+
+
+
 
 ## Datasets
 
