@@ -80,10 +80,10 @@ Por último, llevamos a cabo el desarrollo de visualizaciones, acompañado de co
 <p align=center><img src=https://github.com/MiliTrres/SiniestrosViales-PI2-Henry/blob/main/Img/output5.png height = 300><p>
 
 
-<p align=center><img src=https://github.com/MiliTrres/SiniestrosViales-PI2-Henry/blob/main/Img/output2.png height = 300><p>
+<p align=center><img src=https://github.com/MiliTrres/SiniestrosViales-PI2-Henry/blob/main/Img/output2.png height = 400><p>
 
 
-<p align=center><img src=https://github.com/MiliTrres/SiniestrosViales-PI2-Henry/blob/main/Img/output3.png height = 300><p>
+<p align=center><img src=https://github.com/MiliTrres/SiniestrosViales-PI2-Henry/blob/main/Img/output3.png height = 200><p>
 
 ***Conclusiones***
 
@@ -126,7 +126,7 @@ Por último, llevamos a cabo el desarrollo de visualizaciones, acompañado de co
 <p align=center><img src=https://github.com/MiliTrres/SiniestrosViales-PI2-Henry/blob/main/Img/output11.png height = 300><p>
 
 
-<p align=center><img src=https://github.com/MiliTrres/SiniestrosViales-PI2-Henry/blob/main/Img/output6.png height = 300><p>
+<p align=center><img src=https://github.com/MiliTrres/SiniestrosViales-PI2-Henry/blob/main/Img/output6.png height = 200><p>
 
 ***Conclusiones***
 - La mayor cantidad de victimas se encuentras entre 30 - 60 años (Adulto).
