@@ -172,7 +172,7 @@ Definimos a la cantidad de accidentes mortales sobre avenidas como el número ab
 
 # *Dashboard:*
 
-Puede acceder al siguiente link para acceder al dashboard interactivo: [Dashboard](https://www.novypro.com/project/homicidios-por-siniestros-viales-1)
+Puede acceder al dashboard interactivo desde el siguiente enlace: [Dashboard](https://www.novypro.com/project/homicidios-por-siniestros-viales-1)
 
 
 
