@@ -25,7 +25,7 @@ Para acceder directamente al dataset utilizado en este proyecto, haz click en el
 
 Para comprender mejor el dataset y sus variables, puedes acceder al siguiente enlace [Diccionario de Datos](https://cdn.buenosaires.gob.ar/datosabiertos/datasets/transporte-y-obras-publicas/victimas-siniestros-viales/NOTAS_HOMICIDIOS_SINIESTRO_VIAL.pdf).
 
-# Fuentes de datos adicionales:
+### Fuentes de datos adicionales:
 Ademas de la fuente de datos principal, se accedieron a fuentes de datos complementarias para un analisis más preciso.
 
 Se obtuvo información de las comunas a traves de la página *Buenos Aires Ciudad*. 
@@ -51,7 +51,23 @@ Para el desarrollo del dashboard, se utilizaron las siguientes herramientas:
 ![PowerBI](https://img.shields.io/badge/PowerBI-333333?style=flat&logo=powerbi)
 ![DAX](https://img.shields.io/badge/DAX-333333?style=flat&logo=DAX)
 
+## EDA *(Exploratory Data Analysis)*:
 
+Durante esta etapa se visualizo el dataset en formato `xlsx`, y los datos que contenia cada página. Las páginas eran:
+
+- *HECHOS:* Esta página contiene información de las siniestros viales, incluyendo ID del siniestro, fecha del mismo, hora, calle, altura, cruce, comuna, puntos geograficos, tipo de calle, número de victimas fallecidas, vehiculo manejado por las victimas, vehiculo manejado por el acusado, etc.
+  
+- *VICTIMAS:* Esta página contiene información de la victima, incluyendo el ID del siniestro, sexo de la victima, edad, fecha de fallecimiento, fecha del siniestro, vehiculo manejado por la misma.
+  
+- *DICCIONARIO_HECHOS:* Esta página contiene un glosario con las variables de la tabla *HECHOS*.
+  
+- *DICCIONARIO_VICTIMAS:* Esta página contiene un glosario con las variables de la tabla *VICTIMAS*.
+
+Luego de visualizar el dataset, almacenamos cada página/tabla en un DataFrame distinto que posteriormente se guardo en un archivo `xlsx` distinto.
+
+Analizamos de manera minusiosa los DataFrames que contenian las tablas *HECHOS* y *VICTIMAS*, abordando valores nulos, valores de tipo *SD* (Sin Dato), outliers, registros duplicados, estadistica descriptiva en todas las columnas, conteo de variables categoricas, y ademas se realizaron algunas tranformaciones en el tipo de datos, los nombres de las columnas, generamos columnas a partir de los datos brindados por el dataset y otras mediante *Web Scraping*, desde la API de la página de *Buenos Aires Data* para obtener los barrios de la ciudad y desde la página *Buenos Aires Ciudad* para verificar las comunas de la mism
+
+  
 
 
 
