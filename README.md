@@ -75,16 +75,83 @@ Por último, llevamos a cabo el desarrollo de visualizaciones, acompañado de co
 
 # Análisis a partir de las visualizaciones:
 
-<p align=center><p>
+***ANÁLISIS TEMPORAL***
+
+<p align=center><img src=https://github.com/MiliTrres/SiniestrosViales-PI2-Henry/blob/main/Img/output10.png><p>
+
+<p align=center><img src=https://github.com/MiliTrres/SiniestrosViales-PI2-Henry/blob/main/Img/output.png><p>
+
+<p align=center><img src=https://github.com/MiliTrres/SiniestrosViales-PI2-Henry/blob/main/Img/output3.png><p>
+
+***Conclusiones***
+
+- Vemos que el horario con mayor cantidad de siniestros viales es por la mañana, especificamente entre las 6 y las 7 de la mañana, este fenómeno podría estar relacionado con el horario de ingreso a los trabajos y escuelas, horario en el que aumenta el flujo vehicular.
+
+- Se observa que el porcentaje de ocurrencia de siniestros viales es mayor en días de semana en comparación con los fines de semana. Esta diferencia podría deberse a que durante los días laborales aumenta el flujo de vehiculos.
+
+- El hecho de que Diciembre sea el mes con mayor cantidad de siniestros viales, podría atribuirse al cansancio y estrés acumulado a lo largo del año, así como a las festividades propias de ese mes.
 
 
+***ANÁLISIS GEOGRAFICO***
+
+<p align=center><img src=https://github.com/MiliTrres/SiniestrosViales-PI2-Henry/blob/main/Img/output5.png><p>
+  
+<p align=center><img src=https://github.com/MiliTrres/SiniestrosViales-PI2-Henry/blob/main/Img/output%202.png><p>
+
+***Conclusiones***
+
+- El mayor porcentaje de siniestros ocurre en avenidas, y esto podria deberse a que estas se transitan con una velocidad más alta que en las calles, que son más caudalosas, a que tienen mayor cantidad de intersecciones y que tienen doble sentido, a diferencia de las calles que suelen tener uno solo.
+
+- La mayor parte de los siniestros ocurrieron en la comuna 1.
+
+- Los barrios con mayor acumulación de siniestros en este periodo son, Flores, Constitución y Palermo.
+- 
+***ANÁLISIS DE LAS VICTIMAS***
+
+<p align=center><img src=https://github.com/MiliTrres/SiniestrosViales-PI2-Henry/blob/main/Img/output6.png><p>
+
+<p align=center><img src=https://github.com/MiliTrres/SiniestrosViales-PI2-Henry/blob/main/Img/output7.png><p>
+
+<p align=center><img src=https://github.com/MiliTrres/SiniestrosViales-PI2-Henry/blob/main/Img/output8.png><p>
+
+<p align=center><img src=https://github.com/MiliTrres/SiniestrosViales-PI2-Henry/blob/main/Img/output9.png><p>
+
+***Conclusiones***
+- La mayor cantidad de victimas se encuentras entre 30 - 60 años (Adulto).
+
+- El 76.7% de las victimas son de sexo masculino. Esto podria estar relacionado a la distribución de roles de genero en los medios de movilidad.
+
+- Las principales victimas de siniestros son motociclistas y peatones. Que la moto sea el vehiculo ocupado por un alto número de victimas, puede deberse a la falta de uso del casco, la sobreocupación del vehiculo de dos ruedas, la falta de respeto a las señales viales.
 
   
+***KPIs***
+  
+Creamos tres KPI's *(Indicadores Clave de Rendimiento)*. Estos se basaron en:
+
+- La tasa de homicidios por siniestros viales.
+
+- La cantidad de siniestros viales con victimas fatales en moto.
+
+- La cantidad de siniestros viales con victimas fatales en avenidas.
+
+<p align=center><img src=https://github.com/MiliTrres/SiniestrosViales-PI2-Henry/blob/main/Img/KPIS.png><p>
+
+*KPI - 1:*
+
+- Reducir en un 10% la tasa de homicidios en siniestros viales de los últimos seis meses, en CABA, en comparación con la tasa de homicidios en siniestros viales del semestre anterior.
+
+Definimos a la tasa de homicidios en siniestros viales como el número de víctimas fatales en accidentes de tránsito por cada 100,000 habitantes en un área geográfica durante un período de tiempo específico. Su fórmula es: $\frac{\text{Víctimas en moto del año anterior - Víctimas en moto del año actual}}{\text{Víctimas en moto del año anterior}}*100$
 
 
+*KPI - 2:*
 
+-Reducir en un 7% la cantidad de accidentes mortales de motociclistas en el último año, en CABA, respecto al año anterior.
 
+> Definiendo la 
 
+*KPI - 3:*
+
+-Reducir en un 10% la cantidad de accidentes mortales sobre avenidas en el último año, en CABA, respecto al año anterior.
 
 
 
