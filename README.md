@@ -4,7 +4,7 @@
 
 # <h1 align=center>**HOMICIDIOS EN SINIESTROS VIALES**</h1>
 
-<p align=center><img src=https://github.com/MiliTrres/SiniestrosViales-PI2-Henry/blob/main/Img/Captura%20de%20pantalla%202024-02-27%20173918.png><p>
+<p align=center><img src=https://github.com/MiliTrres/SiniestrosViales-PI2-Henry/blob/main/Img/imgportada.png><p>
 
 # *Introducción*
 
@@ -77,11 +77,13 @@ Por último, llevamos a cabo el desarrollo de visualizaciones, acompañado de co
 
 ***ANÁLISIS TEMPORAL***
 
-<p align=center><img src=https://github.com/MiliTrres/SiniestrosViales-PI2-Henry/blob/main/Img/output10.png><p>
+<p align=center><img src=https://github.com/MiliTrres/SiniestrosViales-PI2-Henry/blob/main/Img/output5.png height = 300><p>
 
-<p align=center><img src=https://github.com/MiliTrres/SiniestrosViales-PI2-Henry/blob/main/Img/output.png><p>
 
-<p align=center><img src=https://github.com/MiliTrres/SiniestrosViales-PI2-Henry/blob/main/Img/output3.png><p>
+<p align=center><img src=https://github.com/MiliTrres/SiniestrosViales-PI2-Henry/blob/main/Img/output2.png height = 300><p>
+
+
+<p align=center><img src=https://github.com/MiliTrres/SiniestrosViales-PI2-Henry/blob/main/Img/output3.png height = 300><p>
 
 ***Conclusiones***
 
@@ -94,27 +96,37 @@ Por último, llevamos a cabo el desarrollo de visualizaciones, acompañado de co
 
 ***ANÁLISIS GEOGRAFICO***
 
-<p align=center><img src=https://github.com/MiliTrres/SiniestrosViales-PI2-Henry/blob/main/Img/output5.png><p>
+
+
+<p align=center><img src=https://github.com/MiliTrres/SiniestrosViales-PI2-Henry/blob/main/Img/output7.png height = 300><p>
+
+
+<p align=center><img src=https://github.com/MiliTrres/SiniestrosViales-PI2-Henry/blob/main/Img/output12.png height = 400><p>
+
   
-<p align=center><img src=https://github.com/MiliTrres/SiniestrosViales-PI2-Henry/blob/main/Img/output%202.png><p>
+<p align=center><img src=https://github.com/MiliTrres/SiniestrosViales-PI2-Henry/blob/main/Img/output.png height = 300><p>
+  
 
 ***Conclusiones***
 
 - El mayor porcentaje de siniestros ocurre en avenidas, y esto podria deberse a que estas se transitan con una velocidad más alta que en las calles, que son más caudalosas, a que tienen mayor cantidad de intersecciones y que tienen doble sentido, a diferencia de las calles que suelen tener uno solo.
 
-- La mayor parte de los siniestros ocurrieron en la comuna 1.
-
 - Los barrios con mayor acumulación de siniestros en este periodo son, Flores, Constitución y Palermo.
-- 
+
+- La mayor parte de los siniestros ocurrieron en la comuna 1.
+  
 ***ANÁLISIS DE LAS VICTIMAS***
 
-<p align=center><img src=https://github.com/MiliTrres/SiniestrosViales-PI2-Henry/blob/main/Img/output6.png><p>
+<p align=center><img src=https://github.com/MiliTrres/SiniestrosViales-PI2-Henry/blob/main/Img/output8.png height = 300><p>
 
-<p align=center><img src=https://github.com/MiliTrres/SiniestrosViales-PI2-Henry/blob/main/Img/output7.png><p>
 
-<p align=center><img src=https://github.com/MiliTrres/SiniestrosViales-PI2-Henry/blob/main/Img/output8.png><p>
+<p align=center><img src=https://github.com/MiliTrres/SiniestrosViales-PI2-Henry/blob/main/Img/output9.png height = 300><p>
 
-<p align=center><img src=https://github.com/MiliTrres/SiniestrosViales-PI2-Henry/blob/main/Img/output9.png><p>
+
+<p align=center><img src=https://github.com/MiliTrres/SiniestrosViales-PI2-Henry/blob/main/Img/output11.png height = 300><p>
+
+
+<p align=center><img src=https://github.com/MiliTrres/SiniestrosViales-PI2-Henry/blob/main/Img/output6.png height = 300><p>
 
 ***Conclusiones***
 - La mayor cantidad de victimas se encuentras entre 30 - 60 años (Adulto).
@@ -123,6 +135,7 @@ Por último, llevamos a cabo el desarrollo de visualizaciones, acompañado de co
 
 - Las principales victimas de siniestros son motociclistas y peatones. Que la moto sea el vehiculo ocupado por un alto número de victimas, puede deberse a la falta de uso del casco, la sobreocupación del vehiculo de dos ruedas, la falta de respeto a las señales viales.
 
+- La mayor parte de los acusados, son conductores de auto.
   
 ***KPIs***
   
@@ -147,14 +160,19 @@ Definimos a la tasa de homicidios en siniestros viales como el número de vícti
 
 -Reducir en un 7% la cantidad de accidentes mortales de motociclistas en el último año, en CABA, respecto al año anterior.
 
-> Definiendo la 
+Definimos a la cantidad de accidentes mortales de motociclistas en siniestros viales como el número absoluto de accidentes fatales en los que estuvieron involucradas víctimas que viajaban en moto en un determinado periodo temporal. Su fórmula para medir la evolución de los accidentes mortales con víctimas en moto es: $\frac{\text{Víctimas en moto del año anterior - Víctimas en moto del año actual}}{\text{Víctimas en moto del año anterior}}*100$
+
+
 
 *KPI - 3:*
 
 -Reducir en un 10% la cantidad de accidentes mortales sobre avenidas en el último año, en CABA, respecto al año anterior.
 
+Definimos a la cantidad de accidentes mortales sobre avenidas como el número absoluto de accidentes fatales en los que estuvieron involucradas víctimas que viajaban por avenidas en un determinado periodo temporal. Su fórmula para medir la evolución de los accidentes mortales con víctimas en avenidas es: $\frac{\text{Accidentes en avenidas del año anterior - Accidentes en avenidas del año actual}}{\text{Accidentes en avenidas del año anterior}}*100$
 
+# *Dashboard:*
 
+Puede acceder al dashboard interactivo desde el siguiente enlace: [Dashboard](https://www.novypro.com/project/homicidios-por-siniestros-viales-1)
 
 
 
