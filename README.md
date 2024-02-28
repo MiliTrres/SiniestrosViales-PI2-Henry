@@ -113,7 +113,7 @@ Por último, llevamos a cabo el desarrollo de visualizaciones, acompañado de co
 
 - Los barrios con mayor acumulación de siniestros en este periodo son, Flores, Constitución y Palermo.
 
-- - La mayor parte de los siniestros ocurrieron en la comuna 1.
+- La mayor parte de los siniestros ocurrieron en la comuna 1.
   
 ***ANÁLISIS DE LAS VICTIMAS***
 
