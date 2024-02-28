@@ -95,6 +95,8 @@ Por último, llevamos a cabo el desarrollo de visualizaciones, acompañado de co
 
 - El hecho de que Diciembre sea el mes con mayor cantidad de siniestros viales, podría atribuirse al cansancio y estrés acumulado a lo largo del año, así como a las festividades propias de ese mes.
 
+- Se observa que los años con mayor cantidad de siniestros fueron 2016 y 2018, seguidos por una tendencia descendente. Este cambio podría deberse a diversas causas, entre las que se destaca el inicio de la pandemia por COVID-19 y las medidas preventivas implementadas. El confinamiento y las restricciones de movilidad redujeron significativamente el tráfico vehicular, lo que contribuyó a la disminución de los siniestros viales.
+
 
 ***ANÁLISIS GEOGRAFICO***
 
@@ -125,7 +127,7 @@ Por último, llevamos a cabo el desarrollo de visualizaciones, acompañado de co
 <p align=center><img src=https://github.com/MiliTrres/SiniestrosViales-PI2-Henry/blob/main/Img/output9.png height = 300><p>
 
 
-<p align=center><img src=https://github.com/MiliTrres/SiniestrosViales-PI2-Henry/blob/main/Img/output11.png height = 200><p>
+<p align=center><img src=https://github.com/MiliTrres/SiniestrosViales-PI2-Henry/blob/main/Img/output11.png height = 250><p>
 
 
 <p align=center><img src=https://github.com/MiliTrres/SiniestrosViales-PI2-Henry/blob/main/Img/output6.png height = 300><p>
