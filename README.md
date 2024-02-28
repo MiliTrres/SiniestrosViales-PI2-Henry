@@ -51,7 +51,7 @@ Para el desarrollo del dashboard, se utilizaron las siguientes herramientas:
 ![PowerBI](https://img.shields.io/badge/PowerBI-333333?style=flat&logo=powerbi)
 ![DAX](https://img.shields.io/badge/DAX-333333?style=flat&logo=DAX)
 
-## EDA *(Exploratory Data Analysis)*:
+# EDA *(Exploratory Data Analysis)*:
 
 Durante esta etapa se visualizo el dataset en formato `xlsx`, y los datos que contenia cada página. Las páginas eran:
 
@@ -63,11 +63,22 @@ Durante esta etapa se visualizo el dataset en formato `xlsx`, y los datos que co
   
 - ***DICCIONARIO_VICTIMAS:*** Esta página contiene un glosario con las variables de la tabla *VICTIMAS*.
 
-Luego de visualizar el dataset, almacenamos cada página/tabla en un DataFrame distinto que posteriormente se guardo en un archivo `xlsx` distinto.
+Luego de visualizar el dataset, almacenamos cada página/tabla en un DataFrame distinto que posteriormente se guardo en formato `xlsx`.
 
-Analizamos de manera minusiosa los DataFrames que contenian las tablas *HECHOS* y *VICTIMAS*, abordando valores nulos, valores de tipo *SD* (Sin Dato), outliers, registros duplicados, análisis estadistico en todas las columnas *(tanto variables númericas como categoricas)*, conteo de ocurrencias en variables categoricas, y ademas se realizaron algunas tranformaciones en el tipo de datos, los nombres de las columnas, generamos columnas a partir de los datos brindados por el dataset y otra mediante *Web Scraping*, desde la API de la página de *Buenos Aires Data* para obtener los barrios de la ciudad, en base a la latitud y longitud de los hechos. 
+Analizamos de manera minuciosa los DataFrames que contenian las tablas *HECHOS* y *VICTIMAS*, abordando valores nulos, valores de tipo *SD* (Sin Dato), outliers, registros duplicados, análisis estadistico en todas las columnas *(tanto variables númericas como categoricas)*, conteo de ocurrencias en variables categoricas. 
+
+Se realizaron algunas tranformaciones en el tipo de datos, los nombres de las columnas, generamos columnas a partir de los datos brindados por el dataset, agrupando valores de ciertas variables, para un análisis más general, y generamos otra columna, obteniendo los datos mediante *Web Scraping*, desde la API de la página de *Buenos Aires Data* para obtener los barrios de la ciudad, en base a la latitud y longitud de los hechos. 
 
 Por último, llevamos a cabo el desarrollo de visualizaciones, acompañado de conclusiones.
+
+> Puede acceder al archivo desde el siguiente enlace: [EDA](https://github.com/MiliTrres/SiniestrosViales-PI2-Henry/blob/main/EDA.ipynb)
+
+# Análisis a partir de las visualizaciones:
+
+<p align=center><p>
+
+
+
   
 
 
