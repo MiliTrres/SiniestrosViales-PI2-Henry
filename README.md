@@ -25,7 +25,7 @@ Para acceder directamente al dataset utilizado en este proyecto, haz click en el
 
 Para comprender mejor el dataset y sus variables, puedes acceder al siguiente diccionario de datos, haciendo click en el siguiente enlace [Diccionario de Datos](https://cdn.buenosaires.gob.ar/datosabiertos/datasets/transporte-y-obras-publicas/victimas-siniestros-viales/NOTAS_HOMICIDIOS_SINIESTRO_VIAL.pdf).
 
-## *Fuentes de datos adicionales:*
+## <h2 align=center>*Fuentes de datos adicionales:*</h2>
 Ademas de la fuente de datos principal, se accedieron a fuentes de datos complementarias para un analisis más preciso.
 
 Se obtuvo información de las comunas a traves de la página *Buenos Aires Ciudad*. 
