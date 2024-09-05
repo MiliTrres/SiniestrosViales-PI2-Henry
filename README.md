@@ -35,7 +35,7 @@ Se obtuvo información de los barrios que conforman cada comuna de la ciudad, ta
 
 Y por último, se obtuvo información de la población de la ciudad por comuna y por sexo. Puede descargar el dataset desde el siguiente enlace [Buenos Aires Ciudad / Población](https://www.estadisticaciudad.gob.ar/eyc/?p=28146).
 
-# *Tecnologias y herramientas utilizadas:*
+# <h2 align=center> *Tecnologias y herramientas utilizadas:* </h2>
 
 Para el desarrollo del EDA (*Exploratory Data Analysis*), se utilizaron las siguientes herramientas y tecnologias:
 
