@@ -16,7 +16,7 @@ La tasa de mortalidad por accidentes viales es un indicador crítico de segurida
 
 En Argentina, hay alrededor de 4000 muertes al año debido a accidentes viales, siendo esta la principal causa de muertes violentas en el país. Por esta razón, el Observatorio de Movilidad y Seguridad Vial (OMSV) solicita nuestra participación en un proyecto de análisis de datos para ayudar a las autoridades locales a reducir la cantidad de muertes en accidentes viales.
 
-# *Fuente de datos:*
+## <h2 align=center> *Fuente de datos:* </h2>
 La fuente de datos pricipal utilizada para este proyecto, fue obtenida desde la página *Buenos Aires Data*, donde se comparten datos abiertos para el público en general.
 
 Puedes acceder a la página desde el siguiente enlace [Buenos Aires Data](https://data.buenosaires.gob.ar/dataset/victimas-siniestros-viales).
