@@ -51,7 +51,7 @@ Para el desarrollo del dashboard, se utilizaron las siguientes herramientas:
 ![PowerBI](https://img.shields.io/badge/PowerBI-333333?style=flat&logo=powerbi)
 ![DAX](https://img.shields.io/badge/DAX-333333?style=flat&logo=DAX)
 
-# EDA *(Exploratory Data Analysis)*:
+# <h2 align=center> EDA *(Exploratory Data Analysis)*: </h2>
 
 Durante esta etapa se visualizo el dataset en formato `xlsx`, y los datos que contenia cada página. Las páginas eran:
 
