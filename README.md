@@ -6,7 +6,7 @@
 
 <p align=center><img src=https://github.com/MiliTrres/SiniestrosViales-PI2-Henry/blob/main/Img/imgportada.png><p>
 
-# *Introducción*
+# <h2 align=center> *Introducción* </h2>
 
 En áreas urbanas, los accidentes de tráfico, también llamados siniestros viales, son eventos preocupantes que involucran vehículos en la via pública y son causados por colisiones entre autos, motos, bicicletas o peatones, atropellos, choques contra objetos fijos o vuelcos de vehículos. Estos incidentes pueden causar daños materiales, lesiones graves e incluso la muerte.
 
