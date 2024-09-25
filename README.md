@@ -98,7 +98,7 @@ Por último, llevamos a cabo el desarrollo de visualizaciones, acompañado de co
 - Se observa que los años con mayor cantidad de siniestros fueron 2016 y 2018, seguidos por una tendencia descendente. Este cambio podría deberse a diversas causas, entre las que se destaca el inicio de la pandemia por COVID-19 y las medidas preventivas implementadas. El confinamiento y las restricciones de movilidad redujeron significativamente el tráfico vehicular, lo que contribuyó a la disminución de los siniestros viales.
 
 
-***ANÁLISIS GEOGRAFICO***
+<h2 align=center> Análisis geografico </h2>
 
 
 
