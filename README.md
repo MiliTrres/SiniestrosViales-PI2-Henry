@@ -75,7 +75,7 @@ Por último, llevamos a cabo el desarrollo de visualizaciones, acompañado de co
 
 # Análisis a partir de las visualizaciones:
 
-<h2 align=center> ANÁLISIS TEMPORAL </h2>
+<h2 align=center> Análisis temporal </h2>
 
 <p align=center><img src=https://github.com/MiliTrres/SiniestrosViales-PI2-Henry/blob/main/Img/output5.png height = 300><p>
 
