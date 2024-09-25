@@ -174,7 +174,7 @@ Definimos a la cantidad de accidentes mortales de motociclistas en siniestros vi
 
 Definimos a la cantidad de accidentes mortales sobre avenidas como el número absoluto de accidentes fatales en los que estuvieron involucradas víctimas que viajaban por avenidas en un determinado periodo temporal. Su fórmula para medir la evolución de los accidentes mortales con víctimas en avenidas es: $\frac{\text{Accidentes en avenidas del año anterior - Accidentes en avenidas del año actual}}{\text{Accidentes en avenidas del año anterior}}*100$
 
-# *Dashboard:*
+# <h2 align=center> Dashboard: </h2>
 
 Puede acceder al dashboard interactivo desde el siguiente enlace: [Dashboard](https://www.novypro.com/project/homicidios-por-siniestros-viales-power-bi)
 
