@@ -73,7 +73,7 @@ Por último, llevamos a cabo el desarrollo de visualizaciones, acompañado de co
 
 > Puede acceder al archivo desde el siguiente enlace: [EDA](https://github.com/MiliTrres/SiniestrosViales-PI2-Henry/blob/main/EDA.ipynb)
 
-# Análisis a partir de las visualizaciones:
+# <h2 align=center> Análisis a partir de las visualizaciones: </h2>
 
 <h2 align=center> Análisis temporal </h2>
 
