@@ -21,7 +21,7 @@ En Argentina, hay alrededor de 4000 muertes al año debido a accidentes viales, 
 # <h2 align=center> *Fuente de datos:* </h2>
 La fuente de datos pricipal utilizada para este proyecto, fue obtenida desde la página *Buenos Aires Data*, donde se comparten datos abiertos para el público en general.
 
-Puedes acceder a la página desde el siguiente enlace [Buenos Aires Data](https://data.buenosaires.gob.ar/dataset/victimas-siniestros-viales).
+Puedes acceder a la página desde el siguiente enlace: [Buenos Aires Data](https://data.buenosaires.gob.ar/dataset/victimas-siniestros-viales).
 
 Para acceder directamente al dataset utilizado en este proyecto, haz click en el siguiente enlace [Dataset Homicidios](https://github.com/MiliTrres/SiniestrosViales-PI2-Henry/blob/main/Data/homicidios.xlsx).
 
